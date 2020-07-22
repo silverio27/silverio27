@@ -1,4 +1,4 @@
-### Oi, DDD é repositóry? 👋
+### Oi 👋
 ![alt text](https://github.com/silverio27/silverio27/blob/master/bojack.jpg?raw=true)
 
 
