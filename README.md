@@ -1,4 +1,6 @@
-### Hi there 👋
+### Oi, DDD é repositóry? 👋
+![alt text](https://github.com/silverio27/silverio27/blob/master/bojack.jpg?raw=true)
+
 
 <!--
 **silverio27/silverio27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
