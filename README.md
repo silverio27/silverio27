@@ -1,5 +1,5 @@
 ### Oi 👋
-![alt text](https://github.com/silverio27/silverio27/blob/master/frida.jpg?raw=true)
+![alt text](https://github.com/silverio27/silverio27/blob/master/frida.PNG?raw=true)
 
 
 <!--
