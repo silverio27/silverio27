@@ -1,18 +1,14 @@
-### Oi 👋
-![alt text](https://github.com/silverio27/silverio27/blob/master/frida.PNG?raw=true)
+![Neon Green and White Professional LinkedIn Banner](https://user-images.githubusercontent.com/59040502/122133123-83267180-ce12-11eb-9d64-0187fff1fbfb.png)
 
 
-<!--
-**silverio27/silverio27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente tabalho na CloudData.com.vc
+- 🌱 Rumo a certificação AZ-204
+- 👯 Colaborando para certificação azure de todo nosso time
+- 🤔 Tentando entender como plataformas lowcode/nocode podem ser úteis para nós devs
+- 💬 Me pergunte sobre desenvolvimento fullstack
+- 📫 Você me encontra no [linkedin](/https://www.linkedin.com/in/lucas-silverio-062250126/) e no [dev.to](/https://dev.to/silverio27)
+- ⚡ Fun fact: I Love Dachshunds 🦴
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverio27)](https://github.com/silverio27/github-readme-stats)
+
